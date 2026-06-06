@@ -1,0 +1,2953 @@
+{
+  "schemaVersion": 1,
+  "players": [
+    {
+      "id": "rod_laver_atp",
+      "name": "Rod Laver",
+      "country": "AUS",
+      "region": "oceania",
+      "decade": "1960s",
+      "activeYears": [
+        1962,
+        1976
+      ],
+      "hand": "L",
+      "tour": "atp",
+      "attrs": {
+        "serve": 82,
+        "return": 85,
+        "forehand": 90,
+        "backhand": 86,
+        "movement": 88,
+        "mental": 95
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "ken_rosewall_atp",
+      "name": "Ken Rosewall",
+      "country": "AUS",
+      "region": "oceania",
+      "decade": "1960s",
+      "activeYears": [
+        1956,
+        1977
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 70,
+        "return": 88,
+        "forehand": 80,
+        "backhand": 92,
+        "movement": 85,
+        "mental": 92
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "roy_emerson_atp",
+      "name": "Roy Emerson",
+      "country": "AUS",
+      "region": "oceania",
+      "decade": "1960s",
+      "activeYears": [
+        1961,
+        1973
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 84,
+        "return": 80,
+        "forehand": 82,
+        "backhand": 78,
+        "movement": 84,
+        "mental": 86
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "john_newcombe_atp",
+      "name": "John Newcombe",
+      "country": "AUS",
+      "region": "oceania",
+      "decade": "1970s",
+      "activeYears": [
+        1965,
+        1981
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 88,
+        "return": 75,
+        "forehand": 84,
+        "backhand": 76,
+        "movement": 80,
+        "mental": 86
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "bjorn_borg_atp",
+      "name": "Björn Borg",
+      "country": "SWE",
+      "region": "europe",
+      "decade": "1970s",
+      "activeYears": [
+        1973,
+        1983
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 84,
+        "return": 86,
+        "forehand": 90,
+        "backhand": 88,
+        "movement": 95,
+        "mental": 96
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "jimmy_connors_atp",
+      "name": "Jimmy Connors",
+      "country": "USA",
+      "region": "north_america",
+      "decade": "1970s",
+      "activeYears": [
+        1972,
+        1992
+      ],
+      "hand": "L",
+      "tour": "atp",
+      "attrs": {
+        "serve": 76,
+        "return": 92,
+        "forehand": 86,
+        "backhand": 90,
+        "movement": 88,
+        "mental": 94
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "ilie_nastase_atp",
+      "name": "Ilie Nastase",
+      "country": "ROU",
+      "region": "europe",
+      "decade": "1970s",
+      "activeYears": [
+        1969,
+        1981
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 78,
+        "return": 85,
+        "forehand": 86,
+        "backhand": 82,
+        "movement": 90,
+        "mental": 68
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "guillermo_vilas_atp",
+      "name": "Guillermo Vilas",
+      "country": "ARG",
+      "region": "south_america",
+      "decade": "1970s",
+      "activeYears": [
+        1973,
+        1989
+      ],
+      "hand": "L",
+      "tour": "atp",
+      "attrs": {
+        "serve": 78,
+        "return": 84,
+        "forehand": 88,
+        "backhand": 84,
+        "movement": 88,
+        "mental": 90
+      },
+      "peakRank": 2
+    },
+    {
+      "id": "arthur_ashe_atp",
+      "name": "Arthur Ashe",
+      "country": "USA",
+      "region": "north_america",
+      "decade": "1970s",
+      "activeYears": [
+        1968,
+        1980
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 86,
+        "return": 80,
+        "forehand": 82,
+        "backhand": 80,
+        "movement": 82,
+        "mental": 88
+      },
+      "peakRank": 2
+    },
+    {
+      "id": "stan_smith_atp",
+      "name": "Stan Smith",
+      "country": "USA",
+      "region": "north_america",
+      "decade": "1970s",
+      "activeYears": [
+        1968,
+        1980
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 85,
+        "return": 78,
+        "forehand": 80,
+        "backhand": 76,
+        "movement": 78,
+        "mental": 82
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "adriano_panatta_atp",
+      "name": "Adriano Panatta",
+      "country": "ITA",
+      "region": "europe",
+      "decade": "1970s",
+      "activeYears": [
+        1970,
+        1983
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 80,
+        "return": 80,
+        "forehand": 86,
+        "backhand": 80,
+        "movement": 84,
+        "mental": 78
+      },
+      "peakRank": 4
+    },
+    {
+      "id": "manuel_orantes_atp",
+      "name": "Manuel Orantes",
+      "country": "ESP",
+      "region": "europe",
+      "decade": "1970s",
+      "activeYears": [
+        1969,
+        1982
+      ],
+      "hand": "L",
+      "tour": "atp",
+      "attrs": {
+        "serve": 74,
+        "return": 86,
+        "forehand": 82,
+        "backhand": 84,
+        "movement": 86,
+        "mental": 84
+      },
+      "peakRank": 2
+    },
+    {
+      "id": "john_mcenroe_atp",
+      "name": "John McEnroe",
+      "country": "USA",
+      "region": "north_america",
+      "decade": "1980s",
+      "activeYears": [
+        1978,
+        1992
+      ],
+      "hand": "L",
+      "tour": "atp",
+      "attrs": {
+        "serve": 86,
+        "return": 88,
+        "forehand": 84,
+        "backhand": 82,
+        "movement": 86,
+        "mental": 82
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "ivan_lendl_atp",
+      "name": "Ivan Lendl",
+      "country": "CZE",
+      "region": "europe",
+      "decade": "1980s",
+      "activeYears": [
+        1980,
+        1994
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 88,
+        "return": 84,
+        "forehand": 92,
+        "backhand": 80,
+        "movement": 82,
+        "mental": 88
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "mats_wilander_atp",
+      "name": "Mats Wilander",
+      "country": "SWE",
+      "region": "europe",
+      "decade": "1980s",
+      "activeYears": [
+        1981,
+        1996
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 76,
+        "return": 88,
+        "forehand": 84,
+        "backhand": 88,
+        "movement": 90,
+        "mental": 92
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "stefan_edberg_atp",
+      "name": "Stefan Edberg",
+      "country": "SWE",
+      "region": "europe",
+      "decade": "1980s",
+      "activeYears": [
+        1983,
+        1996
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 88,
+        "return": 82,
+        "forehand": 78,
+        "backhand": 86,
+        "movement": 90,
+        "mental": 86
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "boris_becker_atp",
+      "name": "Boris Becker",
+      "country": "GER",
+      "region": "europe",
+      "decade": "1980s",
+      "activeYears": [
+        1984,
+        1999
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 94,
+        "return": 80,
+        "forehand": 88,
+        "backhand": 80,
+        "movement": 80,
+        "mental": 86
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "yannick_noah_atp",
+      "name": "Yannick Noah",
+      "country": "FRA",
+      "region": "europe",
+      "decade": "1980s",
+      "activeYears": [
+        1977,
+        1996
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 86,
+        "return": 78,
+        "forehand": 86,
+        "backhand": 76,
+        "movement": 86,
+        "mental": 80
+      },
+      "peakRank": 3
+    },
+    {
+      "id": "pat_cash_atp",
+      "name": "Pat Cash",
+      "country": "AUS",
+      "region": "oceania",
+      "decade": "1980s",
+      "activeYears": [
+        1982,
+        1997
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 86,
+        "return": 78,
+        "forehand": 80,
+        "backhand": 78,
+        "movement": 84,
+        "mental": 80
+      },
+      "peakRank": 4
+    },
+    {
+      "id": "andres_gomez_atp",
+      "name": "Andrés Gómez",
+      "country": "ECU",
+      "region": "south_america",
+      "decade": "1980s",
+      "activeYears": [
+        1980,
+        1995
+      ],
+      "hand": "L",
+      "tour": "atp",
+      "attrs": {
+        "serve": 82,
+        "return": 80,
+        "forehand": 86,
+        "backhand": 78,
+        "movement": 80,
+        "mental": 80
+      },
+      "peakRank": 4
+    },
+    {
+      "id": "jose_luis_clerc_atp",
+      "name": "José Luis Clerc",
+      "country": "ARG",
+      "region": "south_america",
+      "decade": "1980s",
+      "activeYears": [
+        1977,
+        1988
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 78,
+        "return": 84,
+        "forehand": 86,
+        "backhand": 80,
+        "movement": 86,
+        "mental": 80
+      },
+      "peakRank": 4
+    },
+    {
+      "id": "pete_sampras_atp",
+      "name": "Pete Sampras",
+      "country": "USA",
+      "region": "north_america",
+      "decade": "1990s",
+      "activeYears": [
+        1988,
+        2002
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 98,
+        "return": 72,
+        "forehand": 90,
+        "backhand": 78,
+        "movement": 86,
+        "mental": 92
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "andre_agassi_atp",
+      "name": "Andre Agassi",
+      "country": "USA",
+      "region": "north_america",
+      "decade": "1990s",
+      "activeYears": [
+        1986,
+        2006
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 78,
+        "return": 95,
+        "forehand": 92,
+        "backhand": 88,
+        "movement": 84,
+        "mental": 84
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "goran_ivanisevic_atp",
+      "name": "Goran Ivanisevic",
+      "country": "CRO",
+      "region": "europe",
+      "decade": "1990s",
+      "activeYears": [
+        1988,
+        2004
+      ],
+      "hand": "L",
+      "tour": "atp",
+      "attrs": {
+        "serve": 99,
+        "return": 64,
+        "forehand": 80,
+        "backhand": 72,
+        "movement": 74,
+        "mental": 72
+      },
+      "peakRank": 2
+    },
+    {
+      "id": "jim_courier_atp",
+      "name": "Jim Courier",
+      "country": "USA",
+      "region": "north_america",
+      "decade": "1990s",
+      "activeYears": [
+        1988,
+        2000
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 80,
+        "return": 82,
+        "forehand": 92,
+        "backhand": 78,
+        "movement": 82,
+        "mental": 86
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "michael_chang_atp",
+      "name": "Michael Chang",
+      "country": "USA",
+      "region": "north_america",
+      "decade": "1990s",
+      "activeYears": [
+        1988,
+        2003
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 72,
+        "return": 88,
+        "forehand": 84,
+        "backhand": 82,
+        "movement": 94,
+        "mental": 90
+      },
+      "peakRank": 2
+    },
+    {
+      "id": "yevgeny_kafelnikov_atp",
+      "name": "Yevgeny Kafelnikov",
+      "country": "RUS",
+      "region": "europe",
+      "decade": "1990s",
+      "activeYears": [
+        1992,
+        2003
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 82,
+        "return": 86,
+        "forehand": 84,
+        "backhand": 86,
+        "movement": 84,
+        "mental": 78
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "patrick_rafter_atp",
+      "name": "Patrick Rafter",
+      "country": "AUS",
+      "region": "oceania",
+      "decade": "1990s",
+      "activeYears": [
+        1991,
+        2001
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 88,
+        "return": 80,
+        "forehand": 82,
+        "backhand": 76,
+        "movement": 86,
+        "mental": 84
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "marcelo_rios_atp",
+      "name": "Marcelo Ríos",
+      "country": "CHI",
+      "region": "south_america",
+      "decade": "1990s",
+      "activeYears": [
+        1994,
+        2004
+      ],
+      "hand": "L",
+      "tour": "atp",
+      "attrs": {
+        "serve": 76,
+        "return": 88,
+        "forehand": 90,
+        "backhand": 88,
+        "movement": 92,
+        "mental": 76
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "thomas_muster_atp",
+      "name": "Thomas Muster",
+      "country": "AUT",
+      "region": "europe",
+      "decade": "1990s",
+      "activeYears": [
+        1985,
+        1999
+      ],
+      "hand": "L",
+      "tour": "atp",
+      "attrs": {
+        "serve": 80,
+        "return": 84,
+        "forehand": 92,
+        "backhand": 78,
+        "movement": 88,
+        "mental": 90
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "wayne_ferreira_atp",
+      "name": "Wayne Ferreira",
+      "country": "RSA",
+      "region": "africa",
+      "decade": "1990s",
+      "activeYears": [
+        1989,
+        2005
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 84,
+        "return": 80,
+        "forehand": 84,
+        "backhand": 80,
+        "movement": 82,
+        "mental": 76
+      },
+      "peakRank": 6
+    },
+    {
+      "id": "sergi_bruguera_atp",
+      "name": "Sergi Bruguera",
+      "country": "ESP",
+      "region": "europe",
+      "decade": "1990s",
+      "activeYears": [
+        1988,
+        2002
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 78,
+        "return": 84,
+        "forehand": 90,
+        "backhand": 78,
+        "movement": 90,
+        "mental": 84
+      },
+      "peakRank": 3
+    },
+    {
+      "id": "carlos_moya_atp",
+      "name": "Carlos Moyá",
+      "country": "ESP",
+      "region": "europe",
+      "decade": "1990s",
+      "activeYears": [
+        1995,
+        2010
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 84,
+        "return": 80,
+        "forehand": 90,
+        "backhand": 76,
+        "movement": 84,
+        "mental": 80
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "roger_federer_atp",
+      "name": "Roger Federer",
+      "country": "SUI",
+      "region": "europe",
+      "decade": "2000s",
+      "activeYears": [
+        1998,
+        2022
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 92,
+        "return": 84,
+        "forehand": 97,
+        "backhand": 84,
+        "movement": 94,
+        "mental": 92
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "rafael_nadal_atp",
+      "name": "Rafael Nadal",
+      "country": "ESP",
+      "region": "europe",
+      "decade": "2000s",
+      "activeYears": [
+        2001,
+        2024
+      ],
+      "hand": "L",
+      "tour": "atp",
+      "attrs": {
+        "serve": 84,
+        "return": 92,
+        "forehand": 97,
+        "backhand": 86,
+        "movement": 96,
+        "mental": 98
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "andy_roddick_atp",
+      "name": "Andy Roddick",
+      "country": "USA",
+      "region": "north_america",
+      "decade": "2000s",
+      "activeYears": [
+        2000,
+        2012
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 97,
+        "return": 74,
+        "forehand": 88,
+        "backhand": 74,
+        "movement": 78,
+        "mental": 82
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "lleyton_hewitt_atp",
+      "name": "Lleyton Hewitt",
+      "country": "AUS",
+      "region": "oceania",
+      "decade": "2000s",
+      "activeYears": [
+        1998,
+        2016
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 78,
+        "return": 90,
+        "forehand": 82,
+        "backhand": 84,
+        "movement": 94,
+        "mental": 92
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "david_nalbandian_atp",
+      "name": "David Nalbandian",
+      "country": "ARG",
+      "region": "south_america",
+      "decade": "2000s",
+      "activeYears": [
+        2000,
+        2013
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 80,
+        "return": 88,
+        "forehand": 88,
+        "backhand": 92,
+        "movement": 82,
+        "mental": 80
+      },
+      "peakRank": 3
+    },
+    {
+      "id": "marat_safin_atp",
+      "name": "Marat Safin",
+      "country": "RUS",
+      "region": "europe",
+      "decade": "2000s",
+      "activeYears": [
+        1997,
+        2009
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 90,
+        "return": 86,
+        "forehand": 90,
+        "backhand": 88,
+        "movement": 82,
+        "mental": 72
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "juan_carlos_ferrero_atp",
+      "name": "Juan Carlos Ferrero",
+      "country": "ESP",
+      "region": "europe",
+      "decade": "2000s",
+      "activeYears": [
+        1998,
+        2012
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 80,
+        "return": 84,
+        "forehand": 90,
+        "backhand": 80,
+        "movement": 90,
+        "mental": 84
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "gustavo_kuerten_atp",
+      "name": "Gustavo Kuerten",
+      "country": "BRA",
+      "region": "south_america",
+      "decade": "2000s",
+      "activeYears": [
+        1995,
+        2008
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 84,
+        "return": 82,
+        "forehand": 92,
+        "backhand": 86,
+        "movement": 86,
+        "mental": 86
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "fernando_gonzalez_atp",
+      "name": "Fernando González",
+      "country": "CHI",
+      "region": "south_america",
+      "decade": "2000s",
+      "activeYears": [
+        1999,
+        2012
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 84,
+        "return": 78,
+        "forehand": 96,
+        "backhand": 70,
+        "movement": 80,
+        "mental": 78
+      },
+      "peakRank": 5
+    },
+    {
+      "id": "gaston_gaudio_atp",
+      "name": "Gastón Gaudio",
+      "country": "ARG",
+      "region": "south_america",
+      "decade": "2000s",
+      "activeYears": [
+        1999,
+        2011
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 74,
+        "return": 82,
+        "forehand": 86,
+        "backhand": 88,
+        "movement": 84,
+        "mental": 76
+      },
+      "peakRank": 5
+    },
+    {
+      "id": "guillermo_coria_atp",
+      "name": "Guillermo Coria",
+      "country": "ARG",
+      "region": "south_america",
+      "decade": "2000s",
+      "activeYears": [
+        2000,
+        2009
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 72,
+        "return": 88,
+        "forehand": 86,
+        "backhand": 84,
+        "movement": 94,
+        "mental": 70
+      },
+      "peakRank": 3
+    },
+    {
+      "id": "nikolay_davydenko_atp",
+      "name": "Nikolay Davydenko",
+      "country": "RUS",
+      "region": "europe",
+      "decade": "2000s",
+      "activeYears": [
+        1999,
+        2014
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 76,
+        "return": 86,
+        "forehand": 88,
+        "backhand": 86,
+        "movement": 86,
+        "mental": 78
+      },
+      "peakRank": 3
+    },
+    {
+      "id": "novak_djokovic_atp",
+      "name": "Novak Djokovic",
+      "country": "SRB",
+      "region": "europe",
+      "decade": "2010s",
+      "activeYears": [
+        2003,
+        2024
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 86,
+        "return": 97,
+        "forehand": 92,
+        "backhand": 96,
+        "movement": 97,
+        "mental": 97
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "andy_murray_atp",
+      "name": "Andy Murray",
+      "country": "GBR",
+      "region": "europe",
+      "decade": "2010s",
+      "activeYears": [
+        2005,
+        2024
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 84,
+        "return": 92,
+        "forehand": 84,
+        "backhand": 90,
+        "movement": 92,
+        "mental": 88
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "stan_wawrinka_atp",
+      "name": "Stan Wawrinka",
+      "country": "SUI",
+      "region": "europe",
+      "decade": "2010s",
+      "activeYears": [
+        2002,
+        2024
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 86,
+        "return": 82,
+        "forehand": 90,
+        "backhand": 95,
+        "movement": 80,
+        "mental": 86
+      },
+      "peakRank": 3
+    },
+    {
+      "id": "juan_martin_del_potro_atp",
+      "name": "Juan Martín del Potro",
+      "country": "ARG",
+      "region": "south_america",
+      "decade": "2010s",
+      "activeYears": [
+        2005,
+        2022
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 90,
+        "return": 82,
+        "forehand": 96,
+        "backhand": 78,
+        "movement": 76,
+        "mental": 84
+      },
+      "peakRank": 3
+    },
+    {
+      "id": "david_ferrer_atp",
+      "name": "David Ferrer",
+      "country": "ESP",
+      "region": "europe",
+      "decade": "2010s",
+      "activeYears": [
+        2000,
+        2019
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 74,
+        "return": 86,
+        "forehand": 84,
+        "backhand": 82,
+        "movement": 92,
+        "mental": 90
+      },
+      "peakRank": 3
+    },
+    {
+      "id": "tomas_berdych_atp",
+      "name": "Tomáš Berdych",
+      "country": "CZE",
+      "region": "europe",
+      "decade": "2010s",
+      "activeYears": [
+        2002,
+        2019
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 88,
+        "return": 78,
+        "forehand": 88,
+        "backhand": 82,
+        "movement": 78,
+        "mental": 76
+      },
+      "peakRank": 4
+    },
+    {
+      "id": "jo-wilfried_tsonga_atp",
+      "name": "Jo-Wilfried Tsonga",
+      "country": "FRA",
+      "region": "europe",
+      "decade": "2010s",
+      "activeYears": [
+        2004,
+        2022
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 90,
+        "return": 78,
+        "forehand": 90,
+        "backhand": 76,
+        "movement": 82,
+        "mental": 80
+      },
+      "peakRank": 5
+    },
+    {
+      "id": "milos_raonic_atp",
+      "name": "Milos Raonic",
+      "country": "CAN",
+      "region": "north_america",
+      "decade": "2010s",
+      "activeYears": [
+        2008,
+        2023
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 97,
+        "return": 70,
+        "forehand": 86,
+        "backhand": 74,
+        "movement": 72,
+        "mental": 78
+      },
+      "peakRank": 3
+    },
+    {
+      "id": "kei_nishikori_atp",
+      "name": "Kei Nishikori",
+      "country": "JPN",
+      "region": "asia",
+      "decade": "2010s",
+      "activeYears": [
+        2007,
+        2024
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 76,
+        "return": 88,
+        "forehand": 88,
+        "backhand": 88,
+        "movement": 88,
+        "mental": 80
+      },
+      "peakRank": 4
+    },
+    {
+      "id": "marin_cilic_atp",
+      "name": "Marin Čilić",
+      "country": "CRO",
+      "region": "europe",
+      "decade": "2010s",
+      "activeYears": [
+        2005,
+        2023
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 92,
+        "return": 78,
+        "forehand": 86,
+        "backhand": 82,
+        "movement": 78,
+        "mental": 78
+      },
+      "peakRank": 3
+    },
+    {
+      "id": "grigor_dimitrov_atp",
+      "name": "Grigor Dimitrov",
+      "country": "BUL",
+      "region": "europe",
+      "decade": "2010s",
+      "activeYears": [
+        2008,
+        2024
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 84,
+        "return": 80,
+        "forehand": 86,
+        "backhand": 82,
+        "movement": 88,
+        "mental": 76
+      },
+      "peakRank": 3
+    },
+    {
+      "id": "kevin_anderson_atp",
+      "name": "Kevin Anderson",
+      "country": "RSA",
+      "region": "africa",
+      "decade": "2010s",
+      "activeYears": [
+        2007,
+        2022
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 95,
+        "return": 74,
+        "forehand": 84,
+        "backhand": 78,
+        "movement": 72,
+        "mental": 78
+      },
+      "peakRank": 5
+    },
+    {
+      "id": "gaël_monfils_atp",
+      "name": "Gaël Monfils",
+      "country": "FRA",
+      "region": "europe",
+      "decade": "2010s",
+      "activeYears": [
+        2004,
+        2024
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 86,
+        "return": 84,
+        "forehand": 84,
+        "backhand": 80,
+        "movement": 96,
+        "mental": 72
+      },
+      "peakRank": 6
+    },
+    {
+      "id": "nick_kyrgios_atp",
+      "name": "Nick Kyrgios",
+      "country": "AUS",
+      "region": "oceania",
+      "decade": "2010s",
+      "activeYears": [
+        2013,
+        2023
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 95,
+        "return": 78,
+        "forehand": 86,
+        "backhand": 80,
+        "movement": 82,
+        "mental": 64
+      },
+      "peakRank": 13
+    },
+    {
+      "id": "john_isner_atp",
+      "name": "John Isner",
+      "country": "USA",
+      "region": "north_america",
+      "decade": "2010s",
+      "activeYears": [
+        2007,
+        2023
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 99,
+        "return": 62,
+        "forehand": 84,
+        "backhand": 72,
+        "movement": 64,
+        "mental": 78
+      },
+      "peakRank": 8
+    },
+    {
+      "id": "carlos_alcaraz_atp",
+      "name": "Carlos Alcaraz",
+      "country": "ESP",
+      "region": "europe",
+      "decade": "2020s",
+      "activeYears": [
+        2020,
+        2025
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 86,
+        "return": 88,
+        "forehand": 95,
+        "backhand": 86,
+        "movement": 96,
+        "mental": 90
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "jannik_sinner_atp",
+      "name": "Jannik Sinner",
+      "country": "ITA",
+      "region": "europe",
+      "decade": "2020s",
+      "activeYears": [
+        2019,
+        2025
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 86,
+        "return": 90,
+        "forehand": 93,
+        "backhand": 92,
+        "movement": 90,
+        "mental": 90
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "daniil_medvedev_atp",
+      "name": "Daniil Medvedev",
+      "country": "RUS",
+      "region": "europe",
+      "decade": "2020s",
+      "activeYears": [
+        2016,
+        2025
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 88,
+        "return": 92,
+        "forehand": 82,
+        "backhand": 86,
+        "movement": 90,
+        "mental": 84
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "alexander_zverev_atp",
+      "name": "Alexander Zverev",
+      "country": "GER",
+      "region": "europe",
+      "decade": "2020s",
+      "activeYears": [
+        2016,
+        2025
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 90,
+        "return": 84,
+        "forehand": 86,
+        "backhand": 88,
+        "movement": 84,
+        "mental": 76
+      },
+      "peakRank": 2
+    },
+    {
+      "id": "stefanos_tsitsipas_atp",
+      "name": "Stefanos Tsitsipas",
+      "country": "GRE",
+      "region": "europe",
+      "decade": "2020s",
+      "activeYears": [
+        2018,
+        2025
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 86,
+        "return": 80,
+        "forehand": 90,
+        "backhand": 80,
+        "movement": 84,
+        "mental": 80
+      },
+      "peakRank": 3
+    },
+    {
+      "id": "dominic_thiem_atp",
+      "name": "Dominic Thiem",
+      "country": "AUT",
+      "region": "europe",
+      "decade": "2020s",
+      "activeYears": [
+        2014,
+        2024
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 86,
+        "return": 82,
+        "forehand": 92,
+        "backhand": 88,
+        "movement": 82,
+        "mental": 82
+      },
+      "peakRank": 3
+    },
+    {
+      "id": "casper_ruud_atp",
+      "name": "Casper Ruud",
+      "country": "NOR",
+      "region": "europe",
+      "decade": "2020s",
+      "activeYears": [
+        2017,
+        2025
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 82,
+        "return": 82,
+        "forehand": 88,
+        "backhand": 80,
+        "movement": 86,
+        "mental": 84
+      },
+      "peakRank": 2
+    },
+    {
+      "id": "diego_schwartzman_atp",
+      "name": "Diego Schwartzman",
+      "country": "ARG",
+      "region": "south_america",
+      "decade": "2020s",
+      "activeYears": [
+        2011,
+        2024
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 64,
+        "return": 88,
+        "forehand": 84,
+        "backhand": 82,
+        "movement": 92,
+        "mental": 82
+      },
+      "peakRank": 8
+    },
+    {
+      "id": "taylor_fritz_atp",
+      "name": "Taylor Fritz",
+      "country": "USA",
+      "region": "north_america",
+      "decade": "2020s",
+      "activeYears": [
+        2015,
+        2025
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 90,
+        "return": 80,
+        "forehand": 88,
+        "backhand": 82,
+        "movement": 82,
+        "mental": 80
+      },
+      "peakRank": 4
+    },
+    {
+      "id": "frances_tiafoe_atp",
+      "name": "Frances Tiafoe",
+      "country": "USA",
+      "region": "north_america",
+      "decade": "2020s",
+      "activeYears": [
+        2015,
+        2025
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 86,
+        "return": 82,
+        "forehand": 86,
+        "backhand": 80,
+        "movement": 88,
+        "mental": 80
+      },
+      "peakRank": 10
+    },
+    {
+      "id": "alex_de_minaur_atp",
+      "name": "Alex de Minaur",
+      "country": "AUS",
+      "region": "oceania",
+      "decade": "2020s",
+      "activeYears": [
+        2017,
+        2025
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 78,
+        "return": 86,
+        "forehand": 82,
+        "backhand": 82,
+        "movement": 94,
+        "mental": 84
+      },
+      "peakRank": 6
+    },
+    {
+      "id": "hubert_hurkacz_atp",
+      "name": "Hubert Hurkacz",
+      "country": "POL",
+      "region": "europe",
+      "decade": "2020s",
+      "activeYears": [
+        2016,
+        2025
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 94,
+        "return": 74,
+        "forehand": 86,
+        "backhand": 78,
+        "movement": 78,
+        "mental": 78
+      },
+      "peakRank": 6
+    },
+    {
+      "id": "ivo_karlovic_atp",
+      "name": "Ivo Karlović",
+      "country": "CRO",
+      "region": "europe",
+      "decade": "2000s",
+      "activeYears": [
+        2000,
+        2018
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 99,
+        "return": 55,
+        "forehand": 76,
+        "backhand": 64,
+        "movement": 56,
+        "mental": 72
+      },
+      "peakRank": 14
+    },
+    {
+      "id": "reilly_opelka_atp",
+      "name": "Reilly Opelka",
+      "country": "USA",
+      "region": "north_america",
+      "decade": "2020s",
+      "activeYears": [
+        2015,
+        2024
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 98,
+        "return": 58,
+        "forehand": 80,
+        "backhand": 66,
+        "movement": 56,
+        "mental": 64
+      },
+      "peakRank": 17
+    },
+    {
+      "id": "sam_querrey_atp",
+      "name": "Sam Querrey",
+      "country": "USA",
+      "region": "north_america",
+      "decade": "2010s",
+      "activeYears": [
+        2006,
+        2023
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 92,
+        "return": 64,
+        "forehand": 84,
+        "backhand": 70,
+        "movement": 66,
+        "mental": 72
+      },
+      "peakRank": 11
+    },
+    {
+      "id": "feliciano_lopez_atp",
+      "name": "Feliciano López",
+      "country": "ESP",
+      "region": "europe",
+      "decade": "2010s",
+      "activeYears": [
+        1998,
+        2022
+      ],
+      "hand": "L",
+      "tour": "atp",
+      "attrs": {
+        "serve": 90,
+        "return": 66,
+        "forehand": 78,
+        "backhand": 66,
+        "movement": 76,
+        "mental": 74
+      },
+      "peakRank": 12
+    },
+    {
+      "id": "gilles_simon_atp",
+      "name": "Gilles Simon",
+      "country": "FRA",
+      "region": "europe",
+      "decade": "2010s",
+      "activeYears": [
+        2005,
+        2022
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 64,
+        "return": 84,
+        "forehand": 76,
+        "backhand": 82,
+        "movement": 88,
+        "mental": 80
+      },
+      "peakRank": 6
+    },
+    {
+      "id": "fabio_fognini_atp",
+      "name": "Fabio Fognini",
+      "country": "ITA",
+      "region": "europe",
+      "decade": "2010s",
+      "activeYears": [
+        2007,
+        2024
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 74,
+        "return": 82,
+        "forehand": 88,
+        "backhand": 82,
+        "movement": 80,
+        "mental": 56
+      },
+      "peakRank": 9
+    },
+    {
+      "id": "richard_gasquet_atp",
+      "name": "Richard Gasquet",
+      "country": "FRA",
+      "region": "europe",
+      "decade": "2010s",
+      "activeYears": [
+        2002,
+        2024
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 80,
+        "return": 80,
+        "forehand": 78,
+        "backhand": 93,
+        "movement": 80,
+        "mental": 64
+      },
+      "peakRank": 7
+    },
+    {
+      "id": "ernests_gulbis_atp",
+      "name": "Ernests Gulbis",
+      "country": "LAT",
+      "region": "europe",
+      "decade": "2010s",
+      "activeYears": [
+        2006,
+        2020
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 86,
+        "return": 72,
+        "forehand": 88,
+        "backhand": 72,
+        "movement": 72,
+        "mental": 52
+      },
+      "peakRank": 10
+    },
+    {
+      "id": "jack_sock_atp",
+      "name": "Jack Sock",
+      "country": "USA",
+      "region": "north_america",
+      "decade": "2010s",
+      "activeYears": [
+        2011,
+        2023
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 86,
+        "return": 70,
+        "forehand": 91,
+        "backhand": 58,
+        "movement": 72,
+        "mental": 64
+      },
+      "peakRank": 8
+    },
+    {
+      "id": "nicolas_almagro_atp",
+      "name": "Nicolás Almagro",
+      "country": "ESP",
+      "region": "europe",
+      "decade": "2010s",
+      "activeYears": [
+        2003,
+        2018
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 82,
+        "return": 74,
+        "forehand": 89,
+        "backhand": 80,
+        "movement": 76,
+        "mental": 60
+      },
+      "peakRank": 9
+    },
+    {
+      "id": "mikhail_youzhny_atp",
+      "name": "Mikhail Youzhny",
+      "country": "RUS",
+      "region": "europe",
+      "decade": "2000s",
+      "activeYears": [
+        1999,
+        2018
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 76,
+        "return": 82,
+        "forehand": 80,
+        "backhand": 87,
+        "movement": 82,
+        "mental": 72
+      },
+      "peakRank": 8
+    },
+    {
+      "id": "tommy_robredo_atp",
+      "name": "Tommy Robredo",
+      "country": "ESP",
+      "region": "europe",
+      "decade": "2000s",
+      "activeYears": [
+        1998,
+        2019
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 76,
+        "return": 80,
+        "forehand": 86,
+        "backhand": 80,
+        "movement": 84,
+        "mental": 82
+      },
+      "peakRank": 5
+    },
+    {
+      "id": "dustin_brown_atp",
+      "name": "Dustin Brown",
+      "country": "GER",
+      "region": "europe",
+      "decade": "2010s",
+      "activeYears": [
+        2004,
+        2020
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 88,
+        "return": 62,
+        "forehand": 82,
+        "backhand": 66,
+        "movement": 80,
+        "mental": 56
+      },
+      "peakRank": 64
+    },
+    {
+      "id": "benoît_paire_atp",
+      "name": "Benoît Paire",
+      "country": "FRA",
+      "region": "europe",
+      "decade": "2010s",
+      "activeYears": [
+        2008,
+        2023
+      ],
+      "hand": "R",
+      "tour": "atp",
+      "attrs": {
+        "serve": 80,
+        "return": 74,
+        "forehand": 84,
+        "backhand": 80,
+        "movement": 72,
+        "mental": 48
+      },
+      "peakRank": 18
+    },
+    {
+      "id": "billie_jean_king_wta",
+      "name": "Billie Jean King",
+      "country": "USA",
+      "region": "north_america",
+      "decade": "1970s",
+      "activeYears": [
+        1968,
+        1983
+      ],
+      "hand": "R",
+      "tour": "wta",
+      "attrs": {
+        "serve": 80,
+        "return": 82,
+        "forehand": 80,
+        "backhand": 80,
+        "movement": 84,
+        "mental": 92
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "chris_evert_wta",
+      "name": "Chris Evert",
+      "country": "USA",
+      "region": "north_america",
+      "decade": "1970s",
+      "activeYears": [
+        1972,
+        1989
+      ],
+      "hand": "R",
+      "tour": "wta",
+      "attrs": {
+        "serve": 70,
+        "return": 88,
+        "forehand": 84,
+        "backhand": 92,
+        "movement": 84,
+        "mental": 96
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "tracy_austin_wta",
+      "name": "Tracy Austin",
+      "country": "USA",
+      "region": "north_america",
+      "decade": "1970s",
+      "activeYears": [
+        1977,
+        1983
+      ],
+      "hand": "R",
+      "tour": "wta",
+      "attrs": {
+        "serve": 74,
+        "return": 88,
+        "forehand": 82,
+        "backhand": 86,
+        "movement": 86,
+        "mental": 88
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "evonne_goolagong_wta",
+      "name": "Evonne Goolagong",
+      "country": "AUS",
+      "region": "oceania",
+      "decade": "1970s",
+      "activeYears": [
+        1970,
+        1983
+      ],
+      "hand": "R",
+      "tour": "wta",
+      "attrs": {
+        "serve": 78,
+        "return": 82,
+        "forehand": 86,
+        "backhand": 82,
+        "movement": 92,
+        "mental": 82
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "margaret_court_wta",
+      "name": "Margaret Court",
+      "country": "AUS",
+      "region": "oceania",
+      "decade": "1970s",
+      "activeYears": [
+        1960,
+        1977
+      ],
+      "hand": "R",
+      "tour": "wta",
+      "attrs": {
+        "serve": 84,
+        "return": 84,
+        "forehand": 86,
+        "backhand": 82,
+        "movement": 84,
+        "mental": 90
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "kerry_reid_wta",
+      "name": "Kerry Reid",
+      "country": "AUS",
+      "region": "oceania",
+      "decade": "1970s",
+      "activeYears": [
+        1967,
+        1985
+      ],
+      "hand": "R",
+      "tour": "wta",
+      "attrs": {
+        "serve": 78,
+        "return": 80,
+        "forehand": 82,
+        "backhand": 80,
+        "movement": 82,
+        "mental": 80
+      },
+      "peakRank": 5
+    },
+    {
+      "id": "martina_navratilova_wta",
+      "name": "Martina Navratilova",
+      "country": "USA",
+      "region": "north_america",
+      "decade": "1980s",
+      "activeYears": [
+        1975,
+        1994
+      ],
+      "hand": "L",
+      "tour": "wta",
+      "attrs": {
+        "serve": 90,
+        "return": 84,
+        "forehand": 88,
+        "backhand": 84,
+        "movement": 92,
+        "mental": 92
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "hana_mandlikova_wta",
+      "name": "Hana Mandlíková",
+      "country": "CZE",
+      "region": "europe",
+      "decade": "1980s",
+      "activeYears": [
+        1978,
+        1990
+      ],
+      "hand": "R",
+      "tour": "wta",
+      "attrs": {
+        "serve": 82,
+        "return": 82,
+        "forehand": 86,
+        "backhand": 82,
+        "movement": 88,
+        "mental": 78
+      },
+      "peakRank": 3
+    },
+    {
+      "id": "steffi_graf_wta",
+      "name": "Steffi Graf",
+      "country": "GER",
+      "region": "europe",
+      "decade": "1990s",
+      "activeYears": [
+        1982,
+        1999
+      ],
+      "hand": "R",
+      "tour": "wta",
+      "attrs": {
+        "serve": 86,
+        "return": 86,
+        "forehand": 96,
+        "backhand": 78,
+        "movement": 94,
+        "mental": 94
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "monica_seles_wta",
+      "name": "Monica Seles",
+      "country": "YUG",
+      "region": "europe",
+      "decade": "1990s",
+      "activeYears": [
+        1989,
+        2003
+      ],
+      "hand": "L",
+      "tour": "wta",
+      "attrs": {
+        "serve": 80,
+        "return": 92,
+        "forehand": 92,
+        "backhand": 92,
+        "movement": 82,
+        "mental": 90
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "gabriela_sabatini_wta",
+      "name": "Gabriela Sabatini",
+      "country": "ARG",
+      "region": "south_america",
+      "decade": "1990s",
+      "activeYears": [
+        1985,
+        1996
+      ],
+      "hand": "R",
+      "tour": "wta",
+      "attrs": {
+        "serve": 82,
+        "return": 84,
+        "forehand": 88,
+        "backhand": 80,
+        "movement": 86,
+        "mental": 82
+      },
+      "peakRank": 3
+    },
+    {
+      "id": "arantxa_sanchez_vicario_wta",
+      "name": "Arantxa Sánchez Vicario",
+      "country": "ESP",
+      "region": "europe",
+      "decade": "1990s",
+      "activeYears": [
+        1986,
+        2002
+      ],
+      "hand": "R",
+      "tour": "wta",
+      "attrs": {
+        "serve": 74,
+        "return": 90,
+        "forehand": 82,
+        "backhand": 84,
+        "movement": 94,
+        "mental": 90
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "martina_hingis_wta",
+      "name": "Martina Hingis",
+      "country": "SUI",
+      "region": "europe",
+      "decade": "1990s",
+      "activeYears": [
+        1994,
+        2007
+      ],
+      "hand": "R",
+      "tour": "wta",
+      "attrs": {
+        "serve": 74,
+        "return": 88,
+        "forehand": 82,
+        "backhand": 84,
+        "movement": 90,
+        "mental": 88
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "jana_novotna_wta",
+      "name": "Jana Novotná",
+      "country": "CZE",
+      "region": "europe",
+      "decade": "1990s",
+      "activeYears": [
+        1987,
+        1999
+      ],
+      "hand": "R",
+      "tour": "wta",
+      "attrs": {
+        "serve": 86,
+        "return": 80,
+        "forehand": 82,
+        "backhand": 80,
+        "movement": 88,
+        "mental": 74
+      },
+      "peakRank": 2
+    },
+    {
+      "id": "serena_williams_wta",
+      "name": "Serena Williams",
+      "country": "USA",
+      "region": "north_america",
+      "decade": "2000s",
+      "activeYears": [
+        1998,
+        2022
+      ],
+      "hand": "R",
+      "tour": "wta",
+      "attrs": {
+        "serve": 96,
+        "return": 88,
+        "forehand": 92,
+        "backhand": 88,
+        "movement": 86,
+        "mental": 96
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "venus_williams_wta",
+      "name": "Venus Williams",
+      "country": "USA",
+      "region": "north_america",
+      "decade": "2000s",
+      "activeYears": [
+        1997,
+        2024
+      ],
+      "hand": "R",
+      "tour": "wta",
+      "attrs": {
+        "serve": 94,
+        "return": 82,
+        "forehand": 88,
+        "backhand": 82,
+        "movement": 88,
+        "mental": 84
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "justine_henin_wta",
+      "name": "Justine Henin",
+      "country": "BEL",
+      "region": "europe",
+      "decade": "2000s",
+      "activeYears": [
+        1999,
+        2011
+      ],
+      "hand": "R",
+      "tour": "wta",
+      "attrs": {
+        "serve": 80,
+        "return": 88,
+        "forehand": 90,
+        "backhand": 94,
+        "movement": 92,
+        "mental": 92
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "kim_clijsters_wta",
+      "name": "Kim Clijsters",
+      "country": "BEL",
+      "region": "europe",
+      "decade": "2000s",
+      "activeYears": [
+        1999,
+        2012
+      ],
+      "hand": "R",
+      "tour": "wta",
+      "attrs": {
+        "serve": 84,
+        "return": 86,
+        "forehand": 88,
+        "backhand": 84,
+        "movement": 92,
+        "mental": 84
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "amelie_mauresmo_wta",
+      "name": "Amélie Mauresmo",
+      "country": "FRA",
+      "region": "europe",
+      "decade": "2000s",
+      "activeYears": [
+        1999,
+        2009
+      ],
+      "hand": "R",
+      "tour": "wta",
+      "attrs": {
+        "serve": 82,
+        "return": 80,
+        "forehand": 88,
+        "backhand": 86,
+        "movement": 84,
+        "mental": 76
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "lindsay_davenport_wta",
+      "name": "Lindsay Davenport",
+      "country": "USA",
+      "region": "north_america",
+      "decade": "2000s",
+      "activeYears": [
+        1993,
+        2008
+      ],
+      "hand": "R",
+      "tour": "wta",
+      "attrs": {
+        "serve": 90,
+        "return": 82,
+        "forehand": 88,
+        "backhand": 84,
+        "movement": 74,
+        "mental": 82
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "jennifer_capriati_wta",
+      "name": "Jennifer Capriati",
+      "country": "USA",
+      "region": "north_america",
+      "decade": "2000s",
+      "activeYears": [
+        1990,
+        2004
+      ],
+      "hand": "R",
+      "tour": "wta",
+      "attrs": {
+        "serve": 82,
+        "return": 86,
+        "forehand": 88,
+        "backhand": 84,
+        "movement": 82,
+        "mental": 80
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "svetlana_kuznetsova_wta",
+      "name": "Svetlana Kuznetsova",
+      "country": "RUS",
+      "region": "europe",
+      "decade": "2000s",
+      "activeYears": [
+        2000,
+        2021
+      ],
+      "hand": "R",
+      "tour": "wta",
+      "attrs": {
+        "serve": 84,
+        "return": 86,
+        "forehand": 88,
+        "backhand": 84,
+        "movement": 88,
+        "mental": 80
+      },
+      "peakRank": 2
+    },
+    {
+      "id": "maria_sharapova_wta",
+      "name": "Maria Sharapova",
+      "country": "RUS",
+      "region": "europe",
+      "decade": "2010s",
+      "activeYears": [
+        2001,
+        2020
+      ],
+      "hand": "R",
+      "tour": "wta",
+      "attrs": {
+        "serve": 88,
+        "return": 84,
+        "forehand": 88,
+        "backhand": 86,
+        "movement": 78,
+        "mental": 92
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "victoria_azarenka_wta",
+      "name": "Victoria Azarenka",
+      "country": "BLR",
+      "region": "europe",
+      "decade": "2010s",
+      "activeYears": [
+        2003,
+        2024
+      ],
+      "hand": "R",
+      "tour": "wta",
+      "attrs": {
+        "serve": 82,
+        "return": 88,
+        "forehand": 86,
+        "backhand": 88,
+        "movement": 86,
+        "mental": 84
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "petra_kvitova_wta",
+      "name": "Petra Kvitová",
+      "country": "CZE",
+      "region": "europe",
+      "decade": "2010s",
+      "activeYears": [
+        2006,
+        2024
+      ],
+      "hand": "L",
+      "tour": "wta",
+      "attrs": {
+        "serve": 90,
+        "return": 80,
+        "forehand": 92,
+        "backhand": 84,
+        "movement": 78,
+        "mental": 78
+      },
+      "peakRank": 2
+    },
+    {
+      "id": "simona_halep_wta",
+      "name": "Simona Halep",
+      "country": "ROU",
+      "region": "europe",
+      "decade": "2010s",
+      "activeYears": [
+        2008,
+        2024
+      ],
+      "hand": "R",
+      "tour": "wta",
+      "attrs": {
+        "serve": 76,
+        "return": 90,
+        "forehand": 86,
+        "backhand": 86,
+        "movement": 92,
+        "mental": 82
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "caroline_wozniacki_wta",
+      "name": "Caroline Wozniacki",
+      "country": "DEN",
+      "region": "europe",
+      "decade": "2010s",
+      "activeYears": [
+        2005,
+        2023
+      ],
+      "hand": "R",
+      "tour": "wta",
+      "attrs": {
+        "serve": 76,
+        "return": 88,
+        "forehand": 80,
+        "backhand": 84,
+        "movement": 92,
+        "mental": 84
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "angelique_kerber_wta",
+      "name": "Angelique Kerber",
+      "country": "GER",
+      "region": "europe",
+      "decade": "2010s",
+      "activeYears": [
+        2003,
+        2024
+      ],
+      "hand": "L",
+      "tour": "wta",
+      "attrs": {
+        "serve": 78,
+        "return": 88,
+        "forehand": 82,
+        "backhand": 86,
+        "movement": 92,
+        "mental": 86
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "garbine_muguruza_wta",
+      "name": "Garbiñe Muguruza",
+      "country": "ESP",
+      "region": "europe",
+      "decade": "2010s",
+      "activeYears": [
+        2012,
+        2023
+      ],
+      "hand": "R",
+      "tour": "wta",
+      "attrs": {
+        "serve": 84,
+        "return": 82,
+        "forehand": 88,
+        "backhand": 84,
+        "movement": 82,
+        "mental": 80
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "li_na_wta",
+      "name": "Li Na",
+      "country": "CHN",
+      "region": "asia",
+      "decade": "2010s",
+      "activeYears": [
+        2008,
+        2014
+      ],
+      "hand": "R",
+      "tour": "wta",
+      "attrs": {
+        "serve": 82,
+        "return": 84,
+        "forehand": 88,
+        "backhand": 86,
+        "movement": 84,
+        "mental": 82
+      },
+      "peakRank": 2
+    },
+    {
+      "id": "iga_świątek_wta",
+      "name": "Iga Świątek",
+      "country": "POL",
+      "region": "europe",
+      "decade": "2020s",
+      "activeYears": [
+        2019,
+        2025
+      ],
+      "hand": "R",
+      "tour": "wta",
+      "attrs": {
+        "serve": 82,
+        "return": 90,
+        "forehand": 94,
+        "backhand": 86,
+        "movement": 92,
+        "mental": 88
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "aryna_sabalenka_wta",
+      "name": "Aryna Sabalenka",
+      "country": "BLR",
+      "region": "europe",
+      "decade": "2020s",
+      "activeYears": [
+        2018,
+        2025
+      ],
+      "hand": "R",
+      "tour": "wta",
+      "attrs": {
+        "serve": 90,
+        "return": 84,
+        "forehand": 92,
+        "backhand": 86,
+        "movement": 80,
+        "mental": 80
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "naomi_osaka_wta",
+      "name": "Naomi Osaka",
+      "country": "JPN",
+      "region": "asia",
+      "decade": "2020s",
+      "activeYears": [
+        2016,
+        2025
+      ],
+      "hand": "R",
+      "tour": "wta",
+      "attrs": {
+        "serve": 92,
+        "return": 84,
+        "forehand": 92,
+        "backhand": 84,
+        "movement": 82,
+        "mental": 80
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "ashleigh_barty_wta",
+      "name": "Ashleigh Barty",
+      "country": "AUS",
+      "region": "oceania",
+      "decade": "2020s",
+      "activeYears": [
+        2016,
+        2022
+      ],
+      "hand": "R",
+      "tour": "wta",
+      "attrs": {
+        "serve": 84,
+        "return": 86,
+        "forehand": 88,
+        "backhand": 84,
+        "movement": 90,
+        "mental": 90
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "coco_gauff_wta",
+      "name": "Coco Gauff",
+      "country": "USA",
+      "region": "north_america",
+      "decade": "2020s",
+      "activeYears": [
+        2019,
+        2025
+      ],
+      "hand": "R",
+      "tour": "wta",
+      "attrs": {
+        "serve": 84,
+        "return": 88,
+        "forehand": 82,
+        "backhand": 86,
+        "movement": 92,
+        "mental": 84
+      },
+      "peakRank": 2
+    },
+    {
+      "id": "madison_keys_wta",
+      "name": "Madison Keys",
+      "country": "USA",
+      "region": "north_america",
+      "decade": "2020s",
+      "activeYears": [
+        2014,
+        2025
+      ],
+      "hand": "R",
+      "tour": "wta",
+      "attrs": {
+        "serve": 90,
+        "return": 80,
+        "forehand": 92,
+        "backhand": 82,
+        "movement": 82,
+        "mental": 78
+      },
+      "peakRank": 7
+    },
+    {
+      "id": "elena_rybakina_wta",
+      "name": "Elena Rybakina",
+      "country": "KAZ",
+      "region": "asia",
+      "decade": "2020s",
+      "activeYears": [
+        2019,
+        2025
+      ],
+      "hand": "R",
+      "tour": "wta",
+      "attrs": {
+        "serve": 92,
+        "return": 80,
+        "forehand": 90,
+        "backhand": 84,
+        "movement": 82,
+        "mental": 82
+      },
+      "peakRank": 3
+    },
+    {
+      "id": "zheng_qinwen_wta",
+      "name": "Zheng Qinwen",
+      "country": "CHN",
+      "region": "asia",
+      "decade": "2020s",
+      "activeYears": [
+        2021,
+        2025
+      ],
+      "hand": "R",
+      "tour": "wta",
+      "attrs": {
+        "serve": 88,
+        "return": 82,
+        "forehand": 90,
+        "backhand": 82,
+        "movement": 84,
+        "mental": 82
+      },
+      "peakRank": 5
+    },
+    {
+      "id": "jessica_pegula_wta",
+      "name": "Jessica Pegula",
+      "country": "USA",
+      "region": "north_america",
+      "decade": "2020s",
+      "activeYears": [
+        2019,
+        2025
+      ],
+      "hand": "R",
+      "tour": "wta",
+      "attrs": {
+        "serve": 80,
+        "return": 86,
+        "forehand": 86,
+        "backhand": 84,
+        "movement": 84,
+        "mental": 82
+      },
+      "peakRank": 3
+    },
+    {
+      "id": "barbora_krejcikova_wta",
+      "name": "Barbora Krejčíková",
+      "country": "CZE",
+      "region": "europe",
+      "decade": "2020s",
+      "activeYears": [
+        2018,
+        2025
+      ],
+      "hand": "R",
+      "tour": "wta",
+      "attrs": {
+        "serve": 80,
+        "return": 86,
+        "forehand": 86,
+        "backhand": 86,
+        "movement": 84,
+        "mental": 86
+      },
+      "peakRank": 2
+    },
+    {
+      "id": "marketa_vondrousova_wta",
+      "name": "Marketa Vondrousova",
+      "country": "CZE",
+      "region": "europe",
+      "decade": "2020s",
+      "activeYears": [
+        2017,
+        2025
+      ],
+      "hand": "L",
+      "tour": "wta",
+      "attrs": {
+        "serve": 80,
+        "return": 84,
+        "forehand": 86,
+        "backhand": 84,
+        "movement": 88,
+        "mental": 82
+      },
+      "peakRank": 6
+    },
+    {
+      "id": "sabine_lisicki_wta",
+      "name": "Sabine Lisicki",
+      "country": "GER",
+      "region": "europe",
+      "decade": "2010s",
+      "activeYears": [
+        2008,
+        2020
+      ],
+      "hand": "R",
+      "tour": "wta",
+      "attrs": {
+        "serve": 92,
+        "return": 66,
+        "forehand": 82,
+        "backhand": 72,
+        "movement": 68,
+        "mental": 56
+      },
+      "peakRank": 12
+    },
+    {
+      "id": "karolina_pliskova_wta",
+      "name": "Karolína Plíšková",
+      "country": "CZE",
+      "region": "europe",
+      "decade": "2010s",
+      "activeYears": [
+        2013,
+        2024
+      ],
+      "hand": "R",
+      "tour": "wta",
+      "attrs": {
+        "serve": 92,
+        "return": 74,
+        "forehand": 86,
+        "backhand": 82,
+        "movement": 70,
+        "mental": 64
+      },
+      "peakRank": 1
+    },
+    {
+      "id": "sara_errani_wta",
+      "name": "Sara Errani",
+      "country": "ITA",
+      "region": "europe",
+      "decade": "2010s",
+      "activeYears": [
+        2007,
+        2024
+      ],
+      "hand": "R",
+      "tour": "wta",
+      "attrs": {
+        "serve": 58,
+        "return": 86,
+        "forehand": 78,
+        "backhand": 80,
+        "movement": 90,
+        "mental": 80
+      },
+      "peakRank": 5
+    },
+    {
+      "id": "dominika_cibulkova_wta",
+      "name": "Dominika Cibulková",
+      "country": "SVK",
+      "region": "europe",
+      "decade": "2010s",
+      "activeYears": [
+        2008,
+        2019
+      ],
+      "hand": "R",
+      "tour": "wta",
+      "attrs": {
+        "serve": 74,
+        "return": 84,
+        "forehand": 86,
+        "backhand": 80,
+        "movement": 88,
+        "mental": 70
+      },
+      "peakRank": 4
+    },
+    {
+      "id": "jeļena_ostapenko_wta",
+      "name": "Jeļena Ostapenko",
+      "country": "LAT",
+      "region": "europe",
+      "decade": "2010s",
+      "activeYears": [
+        2015,
+        2025
+      ],
+      "hand": "R",
+      "tour": "wta",
+      "attrs": {
+        "serve": 84,
+        "return": 74,
+        "forehand": 92,
+        "backhand": 84,
+        "movement": 70,
+        "mental": 50
+      },
+      "peakRank": 5
+    },
+    {
+      "id": "coco_vandeweghe_wta",
+      "name": "CoCo Vandeweghe",
+      "country": "USA",
+      "region": "north_america",
+      "decade": "2010s",
+      "activeYears": [
+        2008,
+        2021
+      ],
+      "hand": "R",
+      "tour": "wta",
+      "attrs": {
+        "serve": 88,
+        "return": 70,
+        "forehand": 86,
+        "backhand": 76,
+        "movement": 70,
+        "mental": 62
+      },
+      "peakRank": 9
+    },
+    {
+      "id": "anett_kontaveit_wta",
+      "name": "Anett Kontaveit",
+      "country": "EST",
+      "region": "europe",
+      "decade": "2020s",
+      "activeYears": [
+        2015,
+        2023
+      ],
+      "hand": "R",
+      "tour": "wta",
+      "attrs": {
+        "serve": 82,
+        "return": 80,
+        "forehand": 86,
+        "backhand": 80,
+        "movement": 78,
+        "mental": 68
+      },
+      "peakRank": 2
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+id,attr,value
+# Curaduría editorial: pisa atributos puntuales (sobre todo leyendas pre-data-era).
+# Formato: id,attr,value   (attr ∈ serve|return|forehand|backhand|movement|mental, value 0-100)
+# Ejemplo:
+# laver_rod_atp,serve,84

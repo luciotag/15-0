@@ -1,0 +1,26 @@
+{
+  "name": "quince-cero",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "15-0 · Slam Perfecto — construí un tenista Frankenstein y buscá ganar un Grand Slam sin ceder un set.",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -p tsconfig.json && vite build",
+    "preview": "vite preview",
+    "data": "python etl/build_players.py"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.0.6",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "tailwindcss": "^4.0.6",
+    "typescript": "^5.6.3",
+    "vite": "^6.0.7"
+  }
+}
