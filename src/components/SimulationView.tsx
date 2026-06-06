@@ -2,7 +2,8 @@ import { useEffect, useState } from 'react'
 import type { SimResult, SetScore } from '../engine/simulate'
 import type { Slam } from '../game/types'
 import { SURFACE_LABEL } from '../engine/ratings'
-import { flagEmoji, decadeColor } from '../game/labels'
+import { decadeColor } from '../game/labels'
+import Flag from './Flag'
 
 interface Props {
   result: SimResult
@@ -106,7 +107,7 @@ export default function SimulationView({ result, slam, onComplete }: Props) {
             <div className="min-w-0">
               <div className="text-[11px] uppercase tracking-wider text-emerald-100/55">{m.roundName}</div>
               <div className="font-semibold leading-tight text-emerald-50">
-                vs {flagEmoji(m.opponentCountry)} {m.opponentName}
+                vs <Flag code={m.opponentCountry} /> {m.opponentName}
               </div>
               <div className="mt-1.5">
                 <SetPills sets={m.sets} />
@@ -145,7 +146,7 @@ export default function SimulationView({ result, slam, onComplete }: Props) {
               </div>
               <div className="text-left">
                 <div className="text-sm font-bold text-emerald-50">
-                  {flagEmoji(live.opponentCountry)} {lastName(live.opponentName)}
+<Flag code={live.opponentCountry} /> {lastName(live.opponentName)}
                 </div>
               </div>
             </div>
@@ -179,7 +180,7 @@ export default function SimulationView({ result, slam, onComplete }: Props) {
                       {isFinalNext && <span className="ml-1 text-ball">★ el jefe</span>}
                     </div>
                     <div className="text-lg font-bold text-emerald-50">
-                      {flagEmoji(next.opponentCountry)} {next.opponentName}
+<Flag code={next.opponentCountry} /> {next.opponentName}
                       <span className="ml-1.5 text-[11px]" style={{ color: decadeColor(next.opponentDecade as never) }}>
                         {next.opponentDecade}
                       </span>

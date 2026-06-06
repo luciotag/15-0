@@ -11,7 +11,8 @@ import { THEMES } from './game/theme'
 import type { Theme } from './game/theme'
 import { loadRecords, recordResult } from './game/storage'
 import type { Records } from './game/storage'
-import { REGION_LABEL, flagEmoji, decadeColor } from './game/labels'
+import { REGION_LABEL, decadeColor } from './game/labels'
+import Flag from './components/Flag'
 import SlotMachine from './components/SlotMachine'
 import PlayerGrid from './components/PlayerGrid'
 import AttrChooser from './components/AttrChooser'
@@ -468,7 +469,13 @@ export default function App() {
                   <li key={s.attr} className="flex items-center justify-between text-sm">
                     <span className="text-emerald-100/70">
                       <b className="text-emerald-50">{ATTR_LABELS[s.attr]}</b> de{' '}
-                      {s.player ? `${flagEmoji(s.player.country)} ${s.player.name}` : '—'}
+                      {s.player ? (
+                        <>
+                          <Flag code={s.player.country} /> {s.player.name}
+                        </>
+                      ) : (
+                        '—'
+                      )}
                       {s.player && (
                         <span
                           className="ml-1 text-[11px]"
@@ -543,7 +550,7 @@ export default function App() {
                   ★ Si llegás, la final es contra
                 </div>
                 <div className="text-lg font-black text-emerald-50">
-                  {flagEmoji(finalBoss.player.country)} {finalBoss.player.name}
+                  <Flag code={finalBoss.player.country} /> {finalBoss.player.name}
                   <span className="ml-1.5 text-[11px]" style={{ color: decadeColor(finalBoss.player.decade) }}>
                     {finalBoss.player.decade}
                   </span>

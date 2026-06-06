@@ -36,6 +36,12 @@ export function flagEmoji(ioc: string): string {
   )
 }
 
+/** Código ISO-2 en minúscula (para imágenes de bandera flagcdn), o null si no está mapeado. */
+export function iso2Of(ioc: string): string | null {
+  const iso = IOC_TO_ISO2[ioc]
+  return iso ? iso.toLowerCase() : null
+}
+
 export function decadeColor(d: Decade): string {
   const map: Record<Decade, string> = {
     '1960s': '#a78bfa',

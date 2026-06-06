@@ -1,6 +1,7 @@
 import type { Player, AttrKey } from '../game/types'
 import { ATTR_LABELS, ATTR_ORDER, FLOOR } from '../engine/ratings'
-import { flagEmoji, decadeColor } from '../game/labels'
+import { decadeColor } from '../game/labels'
+import Flag from './Flag'
 
 interface Props {
   players: Player[]
@@ -47,7 +48,7 @@ export default function PlayerGrid({ players, statsVisible, onPick, attr, emptyA
               <div className="min-w-0">
                 <div className="text-sm font-bold leading-tight text-emerald-50">{p.name}</div>
                 <div className="mt-0.5 flex items-center gap-1 text-[11px] text-emerald-100/60">
-                  <span>{flagEmoji(p.country)}</span>
+                  <Flag code={p.country} />
                   <span>{p.country}</span>
                   {p.peakRank === 1 && <span className="text-ball/80">· N°1</span>}
                 </div>

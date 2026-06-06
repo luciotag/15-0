@@ -1,6 +1,6 @@
 import type { Slot, AttrKey } from '../game/types'
 import { ATTR_LABELS, FLOOR } from '../engine/ratings'
-import { flagEmoji } from '../game/labels'
+import Flag from './Flag'
 
 interface Props {
   slots: Slot[]
@@ -41,7 +41,7 @@ export default function BuilderPanel({ slots, activeAttr = null }: Props) {
                 </div>
                 {s.player ? (
                   <div className="text-[13px] font-semibold leading-tight text-emerald-50">
-                    {flagEmoji(s.player.country)} {s.player.name}
+                    <Flag code={s.player.country} /> {s.player.name}
                   </div>
                 ) : (
                   <div className="text-[13px] text-emerald-100/30">—</div>

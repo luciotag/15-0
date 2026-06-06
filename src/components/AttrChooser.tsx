@@ -1,6 +1,7 @@
 import type { Player, AttrKey } from '../game/types'
 import { ATTR_LABELS, FLOOR } from '../engine/ratings'
-import { flagEmoji, decadeColor } from '../game/labels'
+import { decadeColor } from '../game/labels'
+import Flag from './Flag'
 
 interface Props {
   player: Player
@@ -26,7 +27,7 @@ export default function AttrChooser({ player, emptyAttrs, statsVisible, onChoose
             De este crack, ¿qué te robás?
           </div>
           <div className="text-xl font-black text-emerald-50">
-            {flagEmoji(player.country)} {player.name}
+<Flag code={player.country} /> {player.name}
             <span className="ml-1.5 text-xs" style={{ color: decadeColor(player.decade) }}>
               {player.decade}
             </span>
