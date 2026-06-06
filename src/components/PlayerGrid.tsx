@@ -45,7 +45,7 @@ export default function PlayerGrid({ players, statsVisible, onPick, attr, emptyA
           >
             <div className="flex items-start justify-between gap-1">
               <div className="min-w-0">
-                <div className="truncate text-sm font-bold leading-tight text-emerald-50">{p.name}</div>
+                <div className="text-sm font-bold leading-tight text-emerald-50">{p.name}</div>
                 <div className="mt-0.5 flex items-center gap-1 text-[11px] text-emerald-100/60">
                   <span>{flagEmoji(p.country)}</span>
                   <span>{p.country}</span>

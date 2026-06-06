@@ -40,7 +40,7 @@ export default function BuilderPanel({ slots, activeAttr = null }: Props) {
                   {active && <span className="text-[10px] font-bold text-ball">● ahora</span>}
                 </div>
                 {s.player ? (
-                  <div className="truncate text-[13px] font-semibold text-emerald-50">
+                  <div className="text-[13px] font-semibold leading-tight text-emerald-50">
                     {flagEmoji(s.player.country)} {s.player.name}
                   </div>
                 ) : (

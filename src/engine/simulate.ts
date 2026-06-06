@@ -21,6 +21,13 @@ export type ResultKind =
 
 export const ROUND_NAMES = ['1ª ronda', '2ª ronda', '3ª ronda', '4ª ronda', 'Cuartos', 'Semifinal', 'Final']
 
+/** Un set desde la perspectiva del jugador: sus games (pg) vs los del rival (og). */
+export interface SetScore {
+  pg: number
+  og: number
+  won: boolean
+}
+
 export interface MatchResult {
   round: number
   roundName: string
@@ -31,6 +38,7 @@ export interface MatchResult {
   won: boolean
   setsWon: number
   setsLost: number
+  sets: SetScore[]
   scoreline: string
 }
 
@@ -45,21 +53,12 @@ export interface SimResult {
   seed: number
 }
 
-function setScore(rnd: () => number, playerWon: boolean): string {
+/** Games del ganador y del perdedor del set. */
+function gamePair(rnd: () => number): [number, number] {
   const t = rnd()
-  let hi: number
-  let lo: number
-  if (t < 0.12) {
-    hi = 7
-    lo = 6
-  } else if (t < 0.24) {
-    hi = 7
-    lo = 5
-  } else {
-    hi = 6
-    lo = Math.floor(rnd() * 5) // 6-0 .. 6-4
-  }
-  return playerWon ? `${hi}-${lo}` : `${lo}-${hi}`
+  if (t < 0.12) return [7, 6] // tie-break
+  if (t < 0.24) return [7, 5]
+  return [6, Math.floor(rnd() * 5)] // 6-0 .. 6-4
 }
 
 /**
@@ -98,13 +97,14 @@ export function simulate(
 
     let sw = 0
     let sl = 0
-    const games: string[] = []
+    const sets: SetScore[] = []
     while (sw < setsToWin && sl < setsToWin) {
       const p = Math.min(0.98, Math.max(0.02, pSet + (rnd() - 0.5) * DIFFICULTY.setNoise))
       const playerWon = rnd() < p
       if (playerWon) sw++
       else sl++
-      games.push(setScore(rnd, playerWon))
+      const [hi, lo] = gamePair(rnd)
+      sets.push({ pg: playerWon ? hi : lo, og: playerWon ? lo : hi, won: playerWon })
     }
 
     const won = sw > sl
@@ -120,7 +120,8 @@ export function simulate(
       won,
       setsWon: sw,
       setsLost: sl,
-      scoreline: games.join(' '),
+      sets,
+      scoreline: sets.map((s) => `${s.pg}-${s.og}`).join(' '),
     })
 
     if (!won) {
